@@ -40,11 +40,23 @@ I’m always sharpening my skills in areas like:
 ## 🌐 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/arovira/)  
 - 🧑‍💻 [GitHub](https://github.com/acwilan)  
-- 🛠️ [GroundChain](https://github.com/groundchain) — blockchain & crypto-related projects  
-- 🖥️ [HomePuters](https://github.com/homeputers) — personal and homelab computing projects
-- [Twitter (I refuse to call it by its current name)](https://twitter.com/acwilan)
+- 🛠️ [GroundChain](https://github.com/groundchain-space) — blockchain & crypto-related projects  
+- 🖥️ [HomePuters](https://github.com/homeputers) — personal and homelab computing projects  
+- 🐦 [Twitter](https://twitter.com/acwilan)  - and before you ask, no, I won't call it by its current name
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=acwilan&show_icons=true&theme=tokyonight&hide=issues" alt="GitHub Stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acwilan&layout=compact&theme=tokyonight" alt="Top Languages" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=acwilan&theme=tokyonight" alt="GitHub Streak Stats"/>
+</p>
 
 ---
 
 ⭐️ Always open to collaborating on open-source projects, discussing developer productivity, or exploring fintech and blockchain opportunities.
-
