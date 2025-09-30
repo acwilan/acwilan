@@ -30,9 +30,9 @@ I'm a **Senior Software Engineer** with over 20 years of experience building rel
 ## 🚀 Projects & Experiments
 I love working on side projects that combine creativity with engineering:  
 - 🎶 **[ChordBook](https://acwilan.github.io/chordbook/)** – an open-source chord chart site for musicians, with multilingual support.  
-- 🎟️ **Blockets** – NFT-backed event ticketing platform (part of **GroundChain** initiative).  
-- 🎮 **GameArr** – an *arr-style media manager concept for retro games.  
-- 🙌 **EBaL v2** – a worship service planning tool with multi-language support and modern UI/UX.  
+- 🎟️ **[Blockets](https://github.com/groundchain/blockets/)** – NFT-backed event ticketing platform (part of **GroundChain** initiative).  
+- 🎮 **[GameArr](https://github.com/homeputers/gamearr/)** – an *arr-style media manager concept for retro games.  
+- 🙌 **[EBaL v2](https://github.com/homeputers/ebal2)** – a worship service planning tool with multi-language support and modern UI/UX.  
 
 I also tinker with home-lab setups (Plex, *arr stack, Raspberry Pi), and automation to make everyday systems smarter.
 
