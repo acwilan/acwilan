@@ -40,8 +40,9 @@ I’m always sharpening my skills in areas like:
 ## 🌐 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/arovira/)  
 - 🧑‍💻 [GitHub](https://github.com/acwilan)  
-- 🛠️ [GroundChain](https://github.com/groundchain-space) — blockchain & crypto-related projects  
-- 🖥️ [HomePuters](https://github.com/homeputers) — personal and homelab computing projects  
+- 🛠️ [GroundChain](https://github.com/groundchain) — blockchain & crypto-related projects  
+- 🖥️ [HomePuters](https://github.com/homeputers) — personal and homelab computing projects
+- [Twitter (I refuse to call it by its current name)](https://twitter.com/acwilan)
 
 ---
 
