@@ -57,6 +57,10 @@ I’m always sharpening my skills in areas like:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=acwilan&theme=tokyonight" alt="GitHub Streak Stats"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=acwilan&theme=tokyo-night" alt="GitHub Activity Graph"/>
+</p>
+
 ---
 
 ⭐️ Always open to collaborating on open-source projects, discussing developer productivity, or exploring fintech and blockchain opportunities.
